@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githubamankumar&label=Profile%20views&color=0e75b6&style=flat" alt="githubamankumar" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **THREE jS**
 
 - 📫 How to reach me **amankumarsre5378@gmail.com**
 
