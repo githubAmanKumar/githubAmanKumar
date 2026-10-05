@@ -2,7 +2,7 @@
 ![logo](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <h1 align="center">Hey there 👋, I'm Aman Kumar</h1>
-<h3 align="center">🚀 A Passionate Frontend Developer from India 🇮🇳</h3>
+<h3 align="center">🚀 A Passionate Full Stack Developer from India 🇮🇳</h3>
 <h3 align="center">Repos - (https://github.com/githubAmanKumar?tab=repositories)</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -10,7 +10,7 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🌱 Currently exploring **Node.js & Three.js**  
+- 🌱 Currently diving deep into **Node.js, Express & Databases**  
 - 💡 Love building **modern, responsive, and creative UIs**  
 - 📫 Reach me at **amankumarsre5378@gmail.com**  
 - ⚡ Fun fact: *I debug more than I code 😅*  
@@ -28,26 +28,41 @@
 
 ### 🛠️ Languages & Tools  
 <p align="left">
+  <!-- Frontend -->
   <a href="https://www.w3schools.com/html/" target="_blank"> 
-    <img src="https://skillicons.dev/icons?i=html" width="45"/> 
+    <img src="https://skillicons.dev/icons?i=html" width="45" title="HTML5"/> 
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://skillicons.dev/icons?i=css" width="45"/> 
+    <img src="https://skillicons.dev/icons?i=css" width="45" title="CSS3"/> 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://skillicons.dev/icons?i=javascript" width="45"/> 
+    <img src="https://skillicons.dev/icons?i=javascript" width="45" title="JavaScript"/> 
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=typescript" width="45" title="TypeScript"/> 
   </a>
   <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://skillicons.dev/icons?i=react" width="45"/> 
+    <img src="https://skillicons.dev/icons?i=react" width="45" title="React"/> 
   </a>
   <a href="https://tailwindcss.com/" target="_blank"> 
-    <img src="https://skillicons.dev/icons?i=tailwind" width="45"/> 
+    <img src="https://skillicons.dev/icons?i=tailwind" width="45" title="Tailwind CSS"/> 
   </a>
+  <!-- Backend -->
   <a href="https://nodejs.org/" target="_blank"> 
-    <img src="https://skillicons.dev/icons?i=nodejs" width="45"/> 
+    <img src="https://skillicons.dev/icons?i=nodejs" width="45" title="Node.js"/> 
   </a>
-  <a href="https://threejs.org/" target="_blank"> 
-    <img src="https://skillicons.dev/icons?i=threejs" width="45"/> 
+  <a href="https://expressjs.com/" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=express" width="45" title="Express.js"/> 
+  </a>
+  <!-- Databases -->
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=mysql" width="45" title="MySQL"/> 
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=mongodb" width="45" title="MongoDB"/> 
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=postgres" width="45" title="PostgreSQL"/> 
   </a>
 </p>
 
