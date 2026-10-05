@@ -1,96 +1,88 @@
-<!-- Profile Banner -->
-![logo](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+<!-- ==================== HEADER ==================== -->
+<div align="center">
+  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="banner" width="100%" />
+</div>
 
-<h1 align="center">Hey there 👋, I'm Aman Kumar</h1>
-<h3 align="center">🚀 A Passionate Full Stack Developer from India 🇮🇳</h3>
-<h3 align="center">Repos - (https://github.com/githubAmanKumar?tab=repositories)</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hey+there+%F0%9F%91%8B+I'm+Aman+Kumar;Full+Stack+Developer+%F0%9F%9A%80;Turning+Ideas+into+Code+%F0%9F%92%A1" alt="Typing SVG" />
+</h1>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
----
-
-### 👨‍💻 About Me  
-- 🌱 Currently diving deep into **Node.js, Express & Databases**  
-- 💡 Love building **modern, responsive, and creative UIs**  
-- 📫 Reach me at **amankumarsre5378@gmail.com**  
-- ⚡ Fun fact: *I debug more than I code 😅*  
-
----
-
-### 🌐 Connect With Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/contact-aman-kumar/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 🛠️ Languages & Tools  
-<p align="left">
-  <!-- Frontend -->
-  <a href="https://www.w3schools.com/html/" target="_blank"> 
-    <img src="https://skillicons.dev/icons?i=html" width="45" title="HTML5"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://skillicons.dev/icons?i=css" width="45" title="CSS3"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://skillicons.dev/icons?i=javascript" width="45" title="JavaScript"/> 
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://skillicons.dev/icons?i=typescript" width="45" title="TypeScript"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://skillicons.dev/icons?i=react" width="45" title="React"/> 
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank"> 
-    <img src="https://skillicons.dev/icons?i=tailwind" width="45" title="Tailwind CSS"/> 
-  </a>
-  <!-- Backend -->
-  <a href="https://nodejs.org/" target="_blank"> 
-    <img src="https://skillicons.dev/icons?i=nodejs" width="45" title="Node.js"/> 
-  </a>
-  <a href="https://expressjs.com/" target="_blank"> 
-    <img src="https://skillicons.dev/icons?i=express" width="45" title="Express.js"/> 
-  </a>
-  <!-- Databases -->
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://skillicons.dev/icons?i=mysql" width="45" title="MySQL"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://skillicons.dev/icons?i=mongodb" width="45" title="MongoDB"/> 
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank"> 
-    <img src="https://skillicons.dev/icons?i=postgres" width="45" title="PostgreSQL"/> 
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=githubamankumar&show_icons=true&theme=radical" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=githubamankumar&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+  <img src="https://komarev.com/ghpvc/?username=githubamankumar&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <a href="https://github.com/githubAmanKumar?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View%20All-6A5ACD?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:amankumarsre5378@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
+<h2>🧑‍💻 About Me</h2>
+
+- 🌱 Currently exploring **Node.js & Express**
+- 💡 Love building **modern, responsive UIs**
+- 📫 Reach me at **amankumarsre5378@gmail.com**
+- ⚡ Fun fact: *I debug more than I code 😅*
+
+<br clear="right"/>
 
 ---
 
-### 🔥 Streak Stats  
+<h2 align="center">🌐 Connect With Me</h2>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=githubamankumar&theme=radical" alt="GitHub Streak"/>
+  <a href="https://www.linkedin.com/in/contact-aman-kumar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/githubAmanKumar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:amankumarsre5378@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🏆 Achievements  
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<h3 align="center">🎨 Frontend</h3>
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=githubamankumar&limit=5&theme=onedark&combine_all_yearly_contributions=true" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
+</p>
+
+<h3 align="center">⚙️ Backend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+<h3 align="center">🗄️ Databases</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+</p>
+
+<h3 align="center">🧰 Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 </p>
 
 ---
 
-### 👀 Profile Visitors  
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=githubamankumar&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="profile views" />
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=githubamankumar&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=githubamankumar&layout=compact&theme=radical&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=githubamankumar&theme=radical&hide_border=true" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff" width="100%"/>
+</div>
